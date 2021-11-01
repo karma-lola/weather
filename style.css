@@ -67,4 +67,21 @@ label{
     
 }
 
+@media screen and (max-width: 670px) {
+    .weather h1{
+        font-size: 3em;
+    }
+
+    label{
+        font-size: 2em;
+    }
+
+    .weather-cities{
+        margin:1em;
+        
+    }
+    .city-container{
+        font-size: 1em;
+    }
+}
 
